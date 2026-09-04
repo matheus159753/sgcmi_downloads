@@ -9,7 +9,6 @@ Repositório oficial de distribuição e atualizações remotas do **SGCMI Print
 | Arquivo | Descrição | Link Direto |
 | :--- | :--- | :---: |
 | **Instalador Completo** | Assistente de instalação para Windows 10 e 11 (64-bit) | [⬇️ Baixar Setup (.exe)](https://github.com/matheus159753/sgcmi_downloads/releases/latest/download/SGCMI_Print_Agent_Setup.exe) |
-| **Executável Avulso** | Binário nativo autocontido para substituição e auto-update | [⬇️ Baixar Executável (.exe)](https://github.com/matheus159753/sgcmi_downloads/releases/latest/download/SGCMI_Print_Agent.exe) |
 | **Última Release** | Notas de versão, changelog e hashes de integridade SHA-256 | [🏷️ Ver Última Release](https://github.com/matheus159753/sgcmi_downloads/releases/latest) |
 
 ---
