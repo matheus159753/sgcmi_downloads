@@ -16,7 +16,7 @@ Repositório oficial de distribuição e atualizações remotas do **SGCMI Print
 ## 🖥️ Requisitos do Sistema
 
 - **Sistema Operacional:** Windows 10 ou Windows 11 (64-bit / x64)
-- **Runtime:** Microsoft Edge WebView2 (instalado automaticamente pelo assistente se necessário)
+- **Runtime:** Microsoft Edge WebView2
 - **Conectividade:** Acesso à internet para sincronização com o backend SGCMI (`https://sgcmi.org`)
 - **Impressoras Suportadas:** Impressoras térmicas USB / Rede (Brother QL-800, Zebra, Elgin, Argox, etc.)
 
